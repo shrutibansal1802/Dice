@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">dice</string>
+    <string name="roll">roll</string>
+    <string name="roll_2_dies">roll 2 dies</string>
+</resources>
